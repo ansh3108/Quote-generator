@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
   }
-  
   body {
     background-color: #f7f7ff;
   }
@@ -21,20 +20,16 @@
     border-radius: 1em;
     background-color: rgb(69, 121, 225);
   }
-  
   .container {
     text-align: center;
   }
-  
   .container p {
     color: #d6d6d6;
     margin: 1em 0 1.5em 0;
   }
-  
   .container h3 {
     color: #ffffff;
   }
-  
   .wrapper #btn,
   .favorite-container button {
     background-color: #ffffff;
@@ -43,7 +38,6 @@
     border-radius: 3em;
     margin-top: 4em;
   }
-  
   .button-container {
     display: flex;
     justify-content: end;
@@ -60,17 +54,13 @@
   .favorite-container h3 {
     color: #ffffff;
   }
-  
   .favorite-container ul {
     list-style: none;
     color: #d6d6d6;
   }
-  
   .favorite-container li {
     padding: 1em 0;
   }
-  
   .active {
     color: red;
   }
-  
